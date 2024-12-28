@@ -33,7 +33,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Honest's Website</h1>
     </header>
     <main>
         <h2>About Me</h2>
