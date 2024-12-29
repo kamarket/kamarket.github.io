@@ -36,7 +36,7 @@
     </header>
     <main>
         <h2>About Me</h2>
-        <p>This is my first website!</p>
+        <p>My first website!</p>
     </main>
     <footer>
         <p>© 2024 My Website</p>
